@@ -1,0 +1,125 @@
+{
+  "version": 1,
+  "fonts": [
+    {
+      "file": "arimo-latin-400-italic.woff2",
+      "builtin": true
+    },
+    {
+      "file": "arimo-latin-400-normal.woff2",
+      "builtin": true
+    },
+    {
+      "file": "arimo-latin-700-italic.woff2",
+      "builtin": true
+    },
+    {
+      "file": "arimo-latin-700-normal.woff2",
+      "builtin": true
+    },
+    {
+      "file": "carlito-latin-400-italic.woff2",
+      "builtin": true
+    },
+    {
+      "file": "carlito-latin-400-normal.woff2",
+      "builtin": true
+    },
+    {
+      "file": "carlito-latin-700-italic.woff2",
+      "builtin": true
+    },
+    {
+      "file": "carlito-latin-700-normal.woff2",
+      "builtin": true
+    },
+    {
+      "file": "caveat-latin-400-normal.woff2",
+      "builtin": true
+    },
+    {
+      "file": "caveat-latin-700-normal.woff2",
+      "builtin": true
+    },
+    {
+      "file": "inter-latin-400-italic.woff2",
+      "builtin": true
+    },
+    {
+      "file": "inter-latin-400-normal.woff2",
+      "builtin": true
+    },
+    {
+      "file": "inter-latin-700-italic.woff2",
+      "builtin": true
+    },
+    {
+      "file": "inter-latin-700-normal.woff2",
+      "builtin": true
+    },
+    {
+      "file": "jetbrains-mono-latin-400-italic.woff2",
+      "builtin": true
+    },
+    {
+      "file": "jetbrains-mono-latin-400-normal.woff2",
+      "builtin": true
+    },
+    {
+      "file": "jetbrains-mono-latin-700-italic.woff2",
+      "builtin": true
+    },
+    {
+      "file": "jetbrains-mono-latin-700-normal.woff2",
+      "builtin": true
+    },
+    {
+      "file": "merriweather-latin-400-italic.woff2",
+      "builtin": true
+    },
+    {
+      "file": "merriweather-latin-400-normal.woff2",
+      "builtin": true
+    },
+    {
+      "file": "merriweather-latin-700-italic.woff2",
+      "builtin": true
+    },
+    {
+      "file": "merriweather-latin-700-normal.woff2",
+      "builtin": true
+    },
+    {
+      "file": "montserrat-latin-400-italic.woff2",
+      "builtin": true
+    },
+    {
+      "file": "montserrat-latin-400-normal.woff2",
+      "builtin": true
+    },
+    {
+      "file": "montserrat-latin-700-italic.woff2",
+      "builtin": true
+    },
+    {
+      "file": "montserrat-latin-700-normal.woff2",
+      "builtin": true
+    },
+    {
+      "file": "tinos-latin-400-italic.woff2",
+      "builtin": true
+    },
+    {
+      "file": "tinos-latin-400-normal.woff2",
+      "builtin": true
+    },
+    {
+      "file": "tinos-latin-700-italic.woff2",
+      "builtin": true
+    },
+    {
+      "file": "tinos-latin-700-normal.woff2",
+      "builtin": true
+    }
+  ]
+}
